@@ -64,7 +64,7 @@ AI 피드백: 단순 계산기를 넘어 '가상 트레이딩 시뮬레이션 �
   * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
 
 <br> [1차 AI협내용문서정리.pdf](https://github.com/user-attachments/files/26345267/1.AI.pdf)
-
+[AI협업내용 Google Docs.pdf](https://github.com/user-attachments/files/26507072/AI.Google.Docs.pdf)
 
 ## 🟩 [2차 과제: V1.0] 입출력 + 리스트 + 조건문 - 향후 작성 예정
 ### **✨2차 과제 내용:**
